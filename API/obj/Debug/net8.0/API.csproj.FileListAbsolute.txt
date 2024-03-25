@@ -260,3 +260,5 @@ C:\Users\larmouti\OneDrive - Kaizen Plus\Desktop\application\API\obj\Debug\net8.
 C:\Users\larmouti\OneDrive - Kaizen Plus\Desktop\application\API\obj\Debug\net8.0\API.pdb
 C:\Users\larmouti\OneDrive - Kaizen Plus\Desktop\application\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\larmouti\OneDrive - Kaizen Plus\Desktop\application\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\larmouti\OneDrive - Kaizen Plus\Desktop\application\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\larmouti\OneDrive - Kaizen Plus\Desktop\application\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
