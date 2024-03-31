@@ -70,16 +70,6 @@ public async Task<ActionResult<UserDto>> LogIn(LoginDto loginDto)
 
 
 
-
-
-
-
-
-
-
-
-
-
 private async Task<Boolean> UserExists(string username)
 {
 return await _context.Users.AnyAsync(x => x.UserName==username.ToLower());

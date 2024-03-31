@@ -264,3 +264,6 @@ C:\Users\larmouti\OneDrive - Kaizen Plus\Desktop\application\API\obj\Debug\net8.
 C:\Users\larmouti\OneDrive - Kaizen Plus\Desktop\application\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\MSI\Desktop\application\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\MSI\Desktop\application\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\MSI\Desktop\application\API\bin\Debug\net8.0\Data\UserSeedData.json
+C:\Users\MSI\Desktop\application\API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\MSI\Desktop\application\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
