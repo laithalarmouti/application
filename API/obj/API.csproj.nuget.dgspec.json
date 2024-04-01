@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI\\Desktop\\application\\API\\API.csproj": {}
+    "C:\\Users\\larmouti\\OneDrive - Kaizen Plus\\Desktop\\application\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI\\Desktop\\application\\API\\API.csproj": {
+    "C:\\Users\\larmouti\\OneDrive - Kaizen Plus\\Desktop\\application\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI\\Desktop\\application\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\larmouti\\OneDrive - Kaizen Plus\\Desktop\\application\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\MSI\\Desktop\\application\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI\\Desktop\\application\\API\\obj\\",
+        "projectPath": "C:\\Users\\larmouti\\OneDrive - Kaizen Plus\\Desktop\\application\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\larmouti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\larmouti\\OneDrive - Kaizen Plus\\Desktop\\application\\API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\larmouti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,6 +53,10 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

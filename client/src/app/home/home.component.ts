@@ -15,21 +15,14 @@ export class HomeComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.getUsers();
+
   }
 
 registerToggle(){
   this.registerMode = !this.registerMode;
 }
 
-getUsers() {
-  this.http.get('http://localhost:5286/api/users').subscribe({
-    next: response => this.users = response,
-    error: error => console.log(error),
-    complete: () =>  console.log("Request has completed")
-  
-    })
-}
+
 cancelRegisterMode(event: boolean){
   this.registerMode = event;
 }
